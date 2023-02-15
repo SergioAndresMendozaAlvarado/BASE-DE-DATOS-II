@@ -1,0 +1,11 @@
+¿Que es una base de datos relacional?
+R: Almacena y proporciona acceso a datos de la manera o basados en el modelo relacional, la manera mas directa de
+representar datos en tablas.
+
+¿Que es DDL?
+R: Sirve para alterar y modificar datos en una base de datos
+
+¿Que es DML?
+R: Nos permite hacer consultas en una base de datos
+ya sea utilizando ciertos comandos como en el caso de SQL SEVER
+SELECT * FROM tabal_x
